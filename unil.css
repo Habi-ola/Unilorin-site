@@ -471,31 +471,14 @@ button{
     .div6{
         width: 200px;
     }
-    /*.div5{
-        float: left;
-        
+    main{
+        overflow: hidden;
     }
-    .div6{
-        width: 250px;
-        height: 100px;
-    }
-    button{
-        background-color: rgb(29, 29, 53);
-        color: white;
-    }
-    .img2{
-        width: 100px;
-    }
-    .div5{
-        float: left;
-        
-    }*/
+
 
 }
 @media only screen and (min-width: 700px){
-   /*.section1{
-        overflow: hidden;
-    }*/
+
     .section6-div{
         margin-left: 0;
     }
@@ -529,10 +512,7 @@ button{
         width: 70px;
 
     }
-    /*.section3 img{
-        width: 765px;
-        height: 500px;
-    }*/
+
 
     .maindiv{
         
@@ -612,17 +592,9 @@ button{
     .section1{
         width: 850px;
     }
-   /* .section3 img{
-        width: 1000px;
-        height: 500px;
-    }*/
+ 
  
     
 }
 
-@media only screen and (min-width: 1000px){
-    /*.section3 img{
-        min-width: 1070px;
-    }*/
- 
-}
+
